@@ -1,0 +1,35 @@
+{
+  "name": "com.snoklecorp.fusedlocation",
+  "version": "0.1.0",
+  "description": "FusedLocation plugin for Cordova/PhoneGap",
+  "cordova": {
+    "id": "com.snoklecorp.fusedlocation",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harish321/cordova-fusedlocation.git"
+  },
+  "keywords": [
+    "GeoLocation",
+    "Location",
+    "Cordova",
+    "PhoneGap",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Harish Dhulipalla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Harish321/cordova-fusedlocation/issues"
+  },
+  "homepage": "https://github.com/Harish321/cordova-fusedlocation#readme"
+}
