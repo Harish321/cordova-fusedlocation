@@ -1,5 +1,5 @@
 {
-  "name": "com.snoklecorp.fusedlocation",
+  "name": "location",
   "version": "0.1.0",
   "description": "FusedLocation plugin for Cordova/PhoneGap",
   "cordova": {
